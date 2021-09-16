@@ -22,26 +22,26 @@ dCi["artifacts"]["Boots of Alacrity"] = {text:"Each time you click on the <em>ad
 dCi["artifacts"]["Book of Aresius"] = {text:"You unlock 8 heroic adventures. Heroic adventures are extremely rare, but they give 10 times more coin.", quote:"&laquo;Remember, proud brothers: everything is possible when you let the mystic power of the Dragonflame burn in your heart.&raquo;<br />&ndash; Aresius", price:"1000000"};
 dCi["artifacts"]["Book of Antonidas"] = {text:"You unlock 8 heroic adventures. Heroic adventures are extremely rare, but they give 10 times more coin.", quote:"&laquo;This is not for idle hands, nor prying eyes. Information must not be lost. But it must not be used unwisely.&raquo;<br />&ndash; Archmage Antonidas", price:"1000000"};
 
-dCi["artifacts"]["Brooch of the Prosperous Adventurer"] = {text:"When you go on an adventure you earn 5% extra coin.", quote:"This item is yet to be identified.", price:"500000"};
-dCi["artifacts"]["Pendant of the Prosperous Adventurer"] = {text:"When you go on an adventure you earn 10% extra coin.", quote:"This item is yet to be identified.", price:"5000000"};
-dCi["artifacts"]["Necklace of the Prosperous Adventurer"] = {text:"When you go on an adventure you earn 15% extra coin.", quote:"This item is yet to be identified.", price:"50000000"};
-dCi["artifacts"]["Gloves of the Prosperous Adventurer"] = {text:"When you go on an adventure you earn 20% extra coin.", quote:"This item is yet to be identified.", price:"500000000"};
+dCi["artifacts"]["Brooch of the Prosperous Adventurer"] = {text:"When you go on an adventure you earn 5% extra coin.", quote:"This item is yet to be identified.", price:"1"};
+dCi["artifacts"]["Pendant of the Prosperous Adventurer"] = {text:"When you go on an adventure you earn 10% extra coin.", quote:"This item is yet to be identified.", price:"1"};
+dCi["artifacts"]["Necklace of the Prosperous Adventurer"] = {text:"When you go on an adventure you earn 15% extra coin.", quote:"This item is yet to be identified.", price:"1"};
+dCi["artifacts"]["Gloves of the Prosperous Adventurer"] = {text:"When you go on an adventure you earn 20% extra coin.", quote:"This item is yet to be identified.", price:"1"};
 dCi["artifacts"]["Cape of the Prosperous Adventurer"] = {text:"When you go on an adventure you earn 25% extra coin.", quote:"This fine silken cape has a small embroidery hidden on the inside that reads: \"Money goes where money is\".", price:"5000000000"};
 
-dCi["artifacts"]["Talon of the Harpy"] = {text:"Increases your income by 1%", quote:"This item is yet to be identified.", price:"10000"};
-dCi["artifacts"]["Eye of the Cockatrice"] = {text:"Increases your income by 2%", quote:"This item is yet to be identified.", price:"100000"};
-dCi["artifacts"]["Sting of the Wyvern"] = {text:"Increases your income by 3%", quote:"This item is yet to be identified.", price:"1000000"};
-dCi["artifacts"]["Claw of the Sphynx"] = {text:"Increases your income by 4%", quote:"This item is yet to be identified.", price:"10000000"};
+dCi["artifacts"]["Talon of the Harpy"] = {text:"Increases your income by 1%", quote:"This item is yet to be identified.", price:"1"};
+dCi["artifacts"]["Eye of the Cockatrice"] = {text:"Increases your income by 2%", quote:"This item is yet to be identified.", price:"1"};
+dCi["artifacts"]["Sting of the Wyvern"] = {text:"Increases your income by 3%", quote:"This item is yet to be identified.", price:"1"};
+dCi["artifacts"]["Claw of the Sphynx"] = {text:"Increases your income by 4%", quote:"This item is yet to be identified.", price:"1"};
 
-dCi["artifacts"]["Left Horn of Mammorus"] = {text:"Increases your income by 5%", quote:"This item is yet to be identified.", price:"100000000"};
-dCi["artifacts"]["Right Horn of Mammorus"] = {text:"Increases your income by 5%", quote:"This item is yet to be identified.", price:"100000000"};
+dCi["artifacts"]["Left Horn of Mammorus"] = {text:"Increases your income by 5%", quote:"This item is yet to be identified.", price:"1"};
+dCi["artifacts"]["Right Horn of Mammorus"] = {text:"Increases your income by 5%", quote:"This item is yet to be identified.", price:"1"};
 
-dCi["artifacts"]["Scale of the Drake"] = {text:"Increases your income by 6%", quote:"This item is yet to be identified.", price:"1000000000"};
-dCi["artifacts"]["Spike of the Basilisk"] = {text:"Increases your income by 7%", quote:"This item is yet to be identified.", price:"10000000000"};
-dCi["artifacts"]["Tooth of the Manticore"] = {text:"Increases your income by 8%", quote:"This item is yet to be identified.", price:"100000000000"};
-dCi["artifacts"]["Heart of the Kraken"] = {text:"Increases your income by 9%", quote:"This item is yet to be identified.", price:"1000000000000"};
-dCi["artifacts"]["Left Tusk of the Tarrasque"] = {text:"Increases your income by 10%", quote:"This item is yet to be identified.", price:"10000000000000"};
-dCi["artifacts"]["Right Tusk of the Tarrasque"] = {text:"Increases your income by 10%", quote:"This item is yet to be identified.", price:"10000000000000"};
+dCi["artifacts"]["Scale of the Drake"] = {text:"Increases your income by 6%", quote:"This item is yet to be identified.", price:"1"};
+dCi["artifacts"]["Spike of the Basilisk"] = {text:"Increases your income by 7%", quote:"This item is yet to be identified.", price:"1"};
+dCi["artifacts"]["Tooth of the Manticore"] = {text:"Increases your income by 8%", quote:"This item is yet to be identified.", price:"1"};
+dCi["artifacts"]["Heart of the Kraken"] = {text:"Increases your income by 9%", quote:"This item is yet to be identified.", price:"1"};
+dCi["artifacts"]["Left Tusk of the Tarrasque"] = {text:"Increases your income by 10%", quote:"This item is yet to be identified.", price:"1"};
+dCi["artifacts"]["Right Tusk of the Tarrasque"] = {text:"Increases your income by 10%", quote:"This item is yet to be identified.", price:"1"};
 
 dCi["artifacts"]["Ring of Luck"] = {text:"Doubles your income.", quote:"This ancient golden ring found its way to the finger of many a successful adventurer.", price:"7777777"};
 
